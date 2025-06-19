@@ -91,7 +91,3 @@ soquete.close()
 ```
 
 Ambos os códigos são escritos em arquivos diferentes. O primeiro a ser executado é o do servidor, até porque sem ele, o cliente não tem como enviar mensagem. Após o servidor ser executado e posteriormente, o cliente também, será possível enviar mensagens pelo cliente e visualizá-las pelo servidor. Claro que, por se tratar do localhost, as únicas mensagens recebidas serão vindas do próprio computador.
-
-## Resultado
-
-![{E57BDDC6-1D28-40FD-9DE7-7CFB78F37D8D}.png](attachment:f7be8936-6e4b-4dd6-852b-1b3b0601aea0:E57BDDC6-1D28-40FD-9DE7-7CFB78F37D8D.png)
